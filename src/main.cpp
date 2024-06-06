@@ -9,10 +9,10 @@ const char* password = "iotexperiment303ab";
 
 // Replace with your Telegram bot token
 const char* telegramBotToken = 
-"5088556789:AAE5QXjdXpQg-tFVmrpnALYs8UM6EawKbN";
+"Your Telegram bot token";
 
 // Replace with your Telegram chat ID
-const String chat_id = "938422235";
+const String chat_id = "Your chat id";
 
 // Initialize WiFi and Telegram bot clients
 WiFiClientSecure client;
